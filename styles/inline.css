@@ -190,7 +190,7 @@ body {
   overflow-x: hidden;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
-  background: url(/images/thor.jpg);
+  background: url(../images/thor.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
