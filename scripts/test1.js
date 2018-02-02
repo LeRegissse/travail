@@ -1,1 +1,4 @@
-$contenu= file_get_contents('http://localhost/cyberattaque/index.php') ;
+function RedirectionJavascript(){
+  document.location.href="https://leregissse.github.io/work/nindex.html"; 
+}
+
